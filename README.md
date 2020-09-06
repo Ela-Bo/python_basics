@@ -16,6 +16,7 @@ Addtionally we learned a lot about how jupyter notebooks work, what to do with G
 ## Zen of Python 
 source of Image: [Wikipedia](https://en.wikipedia.org/wiki/Zen_of_Python)
 
+
 ![](https://en.wikipedia.org/wiki/Zen_of_Python#/media/File:Zen_Of_Python.png)
 
 
