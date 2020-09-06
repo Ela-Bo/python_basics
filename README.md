@@ -16,6 +16,6 @@ At the end of the day we took a look at the Style Guide for Python Code [Pep8](h
 
 ## Zen of Python 
 
-![](https://en.wikipedia.org/wiki/Zen_of_Python#/media/File:Zen_Of_Python.png)
+![](https://commons.wikimedia.org/wiki/File:Zen_Of_Python.png#/media/File:Zen_Of_Python.png)
 
 
