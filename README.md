@@ -15,6 +15,6 @@ Addtionally we learned a lot about how jupyter notebooks work, what to do with G
 At the end of the day we took a look at the Style Guide for Python Code [Pep8](https://www.python.org/dev/peps/pep-0008/) and the Zen of Python. 
 
 ## Zen of Python 
-
-(<p><a href="https://commons.wikimedia.org/wiki/File:Zen_Of_Python.png#/media/File:Zen_Of_Python.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Zen_Of_Python.png" alt="Zen Of Python.png"></a><br>)
 Sourc of Image: [Wikipedia](https://en.wikipedia.org/wiki/Zen_of_Python)
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Zen_Of_Python.png#/media/File:Zen_Of_Python.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Zen_Of_Python.png" alt="Zen Of Python.png"></a><br>
