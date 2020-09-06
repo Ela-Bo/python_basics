@@ -12,5 +12,5 @@ At the end of each section there are some questions which I answerd and marked i
 
 Addtionally we learned a lot about how jupyter notebooks work, what to do with GitHub, how to navigate trough our Unix Shell and the Zen of Python. 
 
-![The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python#/media/File:Zen_Of_Python.png)
+!(https://en.wikipedia.org/wiki/Zen_of_Python#/media/File:Zen_Of_Python.png)
 source of Image: [Wikipedia](https://en.wikipedia.org/wiki/Zen_of_Python)
